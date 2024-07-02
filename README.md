@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/a-hl-2003/a-hl-2003/main/Artboard%2019999.png)
+![MasterHead](https://raw.githubusercontent.com/a-hl-2003/a-hl-2003/main/Artboard%2019999.png)
 <h1 align="center">Hi, I'm A-HL | Ahmadreza Alipouryan</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
